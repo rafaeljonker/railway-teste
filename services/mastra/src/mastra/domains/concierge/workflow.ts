@@ -37,7 +37,7 @@ const processUserMessage = createStep({
 
       // Generate response using agent
       const runtimeContext = new RuntimeContext();
-      runtimeContext.set("userId", userId);
+      (runtimeContext as any).set("userId", userId);
 
       console.log(`📡 Calling agent.generateLegacy()...`);
 
