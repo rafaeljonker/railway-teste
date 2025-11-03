@@ -1,0 +1,14 @@
+node_modules
+dist
+.git
+.gitignore
+README.md
+*.md
+.env
+.env.*
+data
+.mastra
+*.db
+*.db-shm
+*.db-wal
+railway.json
