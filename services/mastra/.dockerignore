@@ -6,7 +6,7 @@ README.md
 *.md
 .env
 .env.*
-data
+/data
 .mastra
 *.db
 *.db-shm
