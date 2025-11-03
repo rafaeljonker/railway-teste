@@ -1,0 +1,9 @@
+node_modules/
+dist/
+baileys_auth/
+*.db
+*.db-shm
+*.db-wal
+.env
+.env.local
+npm-debug.log*

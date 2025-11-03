@@ -1,0 +1,4 @@
+/**
+ * WhatsApp Domain Types
+ */
+export {};

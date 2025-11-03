@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+data/
+
+# Logs
+*.log
+
+# Baileys Auth
+baileys_auth/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo

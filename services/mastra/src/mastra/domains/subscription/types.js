@@ -1,0 +1,4 @@
+/**
+ * Subscription Domain Types
+ */
+export {};
